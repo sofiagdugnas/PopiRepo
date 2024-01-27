@@ -1,6 +1,6 @@
-package Popi;
-import java.util.*;
-public class If
+package Popi.If;
+
+public class WorkGeneration
 {
     public static void main(String[] args) {
         int score = 1900;
